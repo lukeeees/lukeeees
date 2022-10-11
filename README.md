@@ -3,7 +3,7 @@
 
 💬 **My name is Luke Nigel Laylo, I'm taking my Post-Graduate Degree on Business Analytics. I'm currently learning Python and R.**
 
-- 👨‍💻 I'm based in Kingston, Ontario
+- 👨‍💻 I'm currently based in Kingston, Ontario
 - 🌱 I'm interested in Machine learning
 - ⚡ Part-time Assistant Pharmacist 
 
