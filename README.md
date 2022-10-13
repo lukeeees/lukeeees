@@ -8,13 +8,22 @@
 - ⚡ Part-time Assistant Pharmacist 
 
 <h3 align="left">Certifications: </h3>
-<p align="left"><a href="https://www.credly.com/badges/2bc61157-6ec4-48cf-8e3b-dcdc1c3776f2/public_url" target="blank"><img align="center" src="https://images.credly.com/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" height="100" width="100" /></a>
-
+<table border="0">
+  <tr>
+  <td>
+<a href="https://www.credly.com/badges/2bc61157-6ec4-48cf-8e3b-dcdc1c3776f2/public_url" target="blank"><img align="center" src="https://images.credly.com/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" height="100" width="100" /></a>
+  </td>
+  <td>
 <a href="https://www.credly.com/badges/97c820ed-c87b-4b86-9b34-6d1b67c07084/public_url" target="blank"><img align="center" src="https://images.credly.com/size/110x110/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" alt="phenomdluke" height="100" width="100" /></a>
-
+  </td>
+  <td>
 <a href="https://www.credly.com/badges/b7ea698a-946e-4f8d-8882-655065be1d4d/public_url" target="blank"><img align="center" src="https://images.credly.com/size/110x110/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" height="100" width="100" /></a>
-
+</td>
+<td>
 <a href="https://www.credly.com/badges/6df510b8-0c34-440d-81cc-26fa0495c648/public_url" target="blank"><img align="center" src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="100" width="100" /></a>
+</td>
+</tr>
+</table>
 </p>
 
 <h3 align="left">Skills: </h3>
