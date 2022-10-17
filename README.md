@@ -23,7 +23,7 @@
 <a href="https://www.credly.com/badges/6df510b8-0c34-440d-81cc-26fa0495c648/public_url" target="blank"><img align="center" src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="100" width="100" /></a>
 </td>
 <td>
-<a href="https://skillshop.exceedlms.com/student/award/GEnxQWfjBFtToEswQ9dpdZ1b" target="blank"><img align="center" src="https://storage.googleapis.com/exceedlms-external-uploads-production/uploads/certifications/badges/79849/large/ga-for-certification-badge.png?GoogleAccessId=GOOG1EIO7LXRUFV35UXSWKJ3AWMYHZUVNMYIAMGSBIFYEF2AMYYAY4Y4Y5PKA&Signature=ybyCxd4SmkX3tZMMqoq5AYOYeZo%3D&Expires=1665628730" height="100" width="100" /></a>
+<a href="https://skillshop.exceedlms.com/student/award/GEnxQWfjBFtToEswQ9dpdZ1b" target="blank"><img align="center" src="https://www.sortyourfuture.com/uploads/contributor/280x280/c2b2325be6b4482.jpg" height="100" width="100" /></a>
 </td>
 </tr>
 </table>
