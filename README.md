@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luke Nigel Laylo</h1>
-<h3 align="center">Business Analytics student at St. Lawrence College</h3>
+<h3 align="center">Business Analyts
 
 💬 **My name is Luke Nigel Laylo, I'm taking my Post-Graduate Degree on Business Analytics. I'm currently learning Python and R.**
 
