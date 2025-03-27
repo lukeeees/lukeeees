@@ -5,8 +5,8 @@
 
 - 👨‍💻 I'm currently based in Kingston, Ontario
 - 🌱 I'm interested in Machine learning
-- 🌱 Full-time Business Analyst Consultant
-- ⚡ Part-time Assistant Pharmacist 
+- 🌱 Part-time Business Analyst Consultant
+- ⚡ Full-time Assistant Pharmacist 
 
 <h3 align="left">Certifications: </h3>
 <table border="0">
