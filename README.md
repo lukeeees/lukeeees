@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Currently pursuing a **Post-Graduate Degree in Business Analytics** in Kingston, Ontario.
+- 🎓 Graduated **Post-Graduate Degree in Business Analytics** in Kingston, Ontario and **Computer Engineering** in Cebu, PH.
 - 💼 Working as a **Part-time Business Analyst Consultant** while maintaining a full-time role as an **Assistant Pharmacist**.
 - 🧠 Deeply interested in **Machine Learning** and how data can optimize operational workflows.
 - 🐍 Actively mastering **Python** and **R** for statistical modeling.
