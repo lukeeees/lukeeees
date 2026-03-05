@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luke Nigel Laylo</h1>
 <p align="center">
-  <strong>Post-Graduate Student in Business Analytics | Part-time BA Consultant | Assistant Pharmacist</strong><br>
+  <strong>Business Analyst | Part-time BA Consultant | Assistant Pharmacist</strong><br>
   <em>Bridging Healthcare and Data-Driven Insights</em>
 </p>
 
